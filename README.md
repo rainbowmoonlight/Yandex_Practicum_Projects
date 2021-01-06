@@ -1,2 +1,2 @@
 # Yandex_Practicum_Projects
-Yandex Projects
+Yandex Data Science Machine Learning Projects
